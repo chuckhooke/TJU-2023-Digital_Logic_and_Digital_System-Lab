@@ -19,9 +19,9 @@
 ```
 ├── Project               -- Complete project file (Total 5)
 │ 
-├── Bin 				-- Used for programming into an FPGA
+├── Bin 			          	-- Used for programming into an FPGA
 │ 
-├── Epl 				-- Used for building circuits on a virtual emulation platform
+├── Epl 		          		-- Used for building circuits on a virtual emulation platform
 │ 
 ├── Report
 │ 
